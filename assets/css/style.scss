@@ -8,14 +8,14 @@ $accent-light: #a855f7;
 $bg: #fafafa;
 $text: #222;
 
-/* ===== General ===== */
+/*  General  */
 
 body {
     background: $bg;
     color: $text;
 }
 
-/* ===== Headings ===== */
+/*  Headings  */
 
 h1, h2, h3, h4 {
     color: $accent;
@@ -40,7 +40,15 @@ a {
     }
 }
 
-/* ===== Navigation ===== */
+/*  Images  */
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/*  Navigation  */
 
 .site-nav a,
 .page-link {
@@ -92,7 +100,7 @@ img {
     border-radius: 8px;
 }
 
-/* ===== Cards / Posts ===== */
+/*  Cards / Posts  */
 
 .post,
 .post-preview,
