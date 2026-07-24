@@ -38,8 +38,8 @@ Although a light-weight codepen, this app helped me learn Hiragana (Japanese cha
 
 ## About
 
-I left Intel a few years ago due to a decent severance offer and under the impression I could just rejoin quickly when the market rebounded. However, that has not yet been the case. 
-I am working towards better conveying how I've spent my time while continuing to work on a variety of small projects.
+I left Intel under a voluntary severance program during a market downturn. While the anticipated hiring recovery has taken longer than expected, I have continued 
+developing my technical skills through ongoing learning and a variety of small personal projects.
 
 ---
 
