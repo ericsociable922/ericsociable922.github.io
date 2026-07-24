@@ -43,9 +43,17 @@ a {
 /*  Images  */
 
 img {
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     border-radius: 8px;
+}
+
+.featured-image {
+    width: 90vw;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 
 /*  Navigation  */
