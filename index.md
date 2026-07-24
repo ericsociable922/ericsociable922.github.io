@@ -34,7 +34,7 @@ Although a light-weight codepen, this app helped me learn Hiragana (Japanese cha
 
 [Hiragana Shooter](https://codepen.io/kheremos/full/qjpomK)
 
-<p class="codepen" data-height="300" data-pen-title="Hiragana Shooter" data-show-tab-bar="no" data-default-tab="result" data-slug-hash="qjpomK" data-user="kheremos" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-pen-title="Hiragana Shooter" data-show-tab-bar="no" data-default-tab="result" data-slug-hash="qjpomK" data-user="kheremos" style="height: 600px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/kheremos/pen/qjpomK">
   Hiragana Shooter</a> by Greg Galloway (<a href="https://codepen.io/kheremos">@kheremos</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
