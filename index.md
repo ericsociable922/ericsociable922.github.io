@@ -13,7 +13,7 @@ I am a Senior Devops Engineer and General Full Stack Developer. This is a portfo
 
 ### Android Applications and Games
 
-![Screenshot](/assets/images/googleapps.png)
+![Screenshot](/assets/images/googleapps.png){: .featured-image}
 
 Unfortunately, due to recent changes in privacy, the above applications are inactive on the Google Play Store, but work is in progress to restore some of them.
 
