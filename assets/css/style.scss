@@ -1,10 +1,104 @@
----
----
+/* ===== Color palette ===== */
 
-@import "minima";
+$accent: #7c3aed;      // Purple
+$accent-light: #a855f7;
+$bg: #fafafa;
+$text: #222;
 
-:root {
-    --accent: #7c3aed;
+/* ===== General ===== */
+
+body {
+    background: $bg;
+    color: $text;
 }
 
-/* Your custom styles below */
+/* ===== Headings ===== */
+
+h1, h2, h3, h4 {
+    color: $accent;
+    letter-spacing: .02em;
+}
+
+h2 {
+    border-bottom: 2px solid rgba($accent, .25);
+    padding-bottom: .25rem;
+}
+
+/* ===== Links ===== */
+
+a {
+    color: $accent;
+    text-decoration: none;
+    transition: color .15s ease;
+
+    &:hover {
+        color: $accent-light;
+        text-decoration: underline;
+    }
+}
+
+/* ===== Navigation ===== */
+
+.site-nav a,
+.page-link {
+    border-radius: 6px;
+    padding: .25rem .5rem;
+
+    &:hover {
+        background: rgba($accent, .08);
+    }
+}
+
+/* ===== Code ===== */
+
+code {
+    background: #f2ecff;
+    color: #5b21b6;
+    padding: .1rem .3rem;
+    border-radius: 4px;
+}
+
+pre {
+    border-left: 4px solid $accent;
+}
+
+/* ===== Blockquotes ===== */
+
+blockquote {
+    border-left: 4px solid $accent;
+    background: #fbf8ff;
+    padding: .75rem 1rem;
+}
+
+/* ===== Buttons (if your theme has them) ===== */
+
+.btn,
+.button {
+    background: $accent;
+    color: white;
+    border-radius: 8px;
+
+    &:hover {
+        background: $accent-light;
+    }
+}
+
+/* ===== Images ===== */
+
+img {
+    border-radius: 8px;
+}
+
+/* ===== Cards / Posts ===== */
+
+.post,
+.post-preview,
+.card {
+    border: 1px solid #eee;
+    border-radius: 10px;
+    transition: box-shadow .2s ease;
+
+    &:hover {
+        box-shadow: 0 4px 16px rgba($accent, .12);
+    }
+}
